@@ -1,0 +1,8 @@
+htoun;ahmad;85
+cadi;ghalib;90
+raneem;abdullah;70
+leena;ali;20
+Lamya;Ali;9
+x;y;5
+h;b;6
+h;m;50
